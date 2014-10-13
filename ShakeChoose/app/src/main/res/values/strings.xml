@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shake Choose</string>
+    <string name="edit_message">Digite um item por linha</string>
+    <string name="label1_text">Balance o dispositivo para sortear um item</string>
+    <string name="action_about">Sobre</string>
+
+</resources>
